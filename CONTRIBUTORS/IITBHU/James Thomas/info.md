@@ -24,3 +24,9 @@ However using this command makes a new commit hash, so one need to force push it
 
 **Ans-1** According to me, merge conflicts arise when two different changes on the same line occurs in a file. Eg. merging 2 branches. However git cannot solve it automatically, thus its the work of the developer to consider which changes he likes to keep.
 
+### Ques-2 Is force push a good practice? Yes/No why? In most of the tasks on this repo, you used force push, so why this practice is Okay (neither good nor bad) in your case?
+
+**Ans-2** Force push is not a good practice though as it changes the git commit history. The other contributors working on a project can face issue due to this. The more better habit is to revert commits, so that all developers are awared about it.
+
+In our case, as working on the individual named files, doesn't make any change to the files of other contributors. However while working on some common issues/files can cause the bugs, if someone forced pushed his/her changes.
+
