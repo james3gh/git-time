@@ -33,3 +33,7 @@ In our case, as working on the individual named files, doesn't make any change t
 ### Ques-3 Name anyone Git or Github topic on which any issue is not made on this repo. (Your answer should be different from others.
 
 **Ans-3** Working on some issue that uses some concept of detached head if added can be really helpful
+
+### Ques-4 What changes to your procedure of doing this task will happen if I told you to write all first three answers (Ans - 1, 2, 3) at the end of the file.
+
+**Ans-4** Spliting the changes in the reverse order i.e. 3 then 2 then 1
