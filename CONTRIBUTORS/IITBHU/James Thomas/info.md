@@ -19,3 +19,8 @@ To know more, <a href = "https://github.com/james3gh">click here</a>.
 git commit --amend -m "title" -m "description" . <br />
 You can also write the commit message in vi editor using amend command.
 However using this command makes a new commit hash, so one need to force push it to be reflected in remote repo.
+
+### Ques-1 How and why merge conflicts arise?
+
+**Ans-1** According to me, merge conflicts arise when two different changes on the same line occurs in a file. Eg. merging 2 branches. However git cannot solve it automatically, thus its the work of the developer to consider which changes he likes to keep.
+
