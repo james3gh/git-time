@@ -30,3 +30,6 @@ However using this command makes a new commit hash, so one need to force push it
 
 In our case, as working on the individual named files, doesn't make any change to the files of other contributors. However while working on some common issues/files can cause the bugs, if someone forced pushed his/her changes.
 
+### Ques-3 Name anyone Git or Github topic on which any issue is not made on this repo. (Your answer should be different from others.
+
+**Ans-3** Working on some issue that uses some concept of detached head if added can be really helpful
