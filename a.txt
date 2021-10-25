@@ -1,7 +1,4 @@
 this is james
 web dev 
 this is gogit repo 
- this is c1 from b1
-this is c2 from b1
-this is c3 from b1
  
