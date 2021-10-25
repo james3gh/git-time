@@ -6,3 +6,4 @@ this is gogit repo
 
 
 commit 1 from b2
+commit 2 from b2
