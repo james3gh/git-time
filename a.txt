@@ -2,6 +2,8 @@ commit 1 from b3
 commmit 2 from b3
 commit 3 from b3
 this is james
+commit 1 from b6
+commit 2 from b6
 web dev 
 commit 1 from b4
 commit 2 from b4
