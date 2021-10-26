@@ -1,4 +1,32 @@
+
 this is james...
+
+commit 1 from b3
+commmit 2 from b3
+commit 3 from b3
+this is james
+
 web dev 
+
+commit 1 from b8
+
+commit 1 from b6
+commit 2 from b6
+web dev 
+commit 1 from b4
+commit 2 from b4
+commit 3 from b4
+
 this is gogit repo 
- 
+
+commit 1 from b7
+
+this is c1 from b1
+this is c2 from b1
+this is c3 from b1
+
+commit 1 from b2
+commit 2 from b2
+commit 3 from b2
+commit 4 from b2
+
