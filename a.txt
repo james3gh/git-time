@@ -1,3 +1,5 @@
+commit 1 from b4
+
 this is james
 web dev 
 this is gogit repo 
