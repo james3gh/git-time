@@ -1,6 +1,6 @@
 this is james
 commit 1 from b6
-
+commit 2 from b6
 web dev 
 this is gogit repo 
  
