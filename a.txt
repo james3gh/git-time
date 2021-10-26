@@ -3,6 +3,9 @@ commmit 2 from b3
 commit 3 from b3
 this is james
 web dev 
+commit 1 from b4
+commit 2 from b4
+commit 3 from b4
 this is gogit repo 
 
 this is c1 from b1
