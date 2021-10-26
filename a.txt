@@ -1,4 +1,6 @@
 this is james
+commit 1 from b6
+
 web dev 
 this is gogit repo 
  
