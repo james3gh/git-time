@@ -42,3 +42,6 @@ q git tree and blob
 tree explained
 
 blob explained
+
+Ques 2 - What are Git Submodules? Why are they used?
+Ans 2 - Git submodules is like a git repository inside another git repo. Changes made in submodules are not tracked by main repo. It is useful to have some separate projects inside a git repo if the projects is much complex. This make the projects divide into small modules to work upon.
