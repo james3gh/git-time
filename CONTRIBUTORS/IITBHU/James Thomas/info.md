@@ -37,3 +37,8 @@ In our case, as working on the individual named files, doesn't make any change t
 Git objects explained.
 refs explained
 objects stores commits
+
+q git tree and blob
+tree explained
+
+blob explained
