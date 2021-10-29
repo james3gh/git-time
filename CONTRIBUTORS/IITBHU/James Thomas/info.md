@@ -33,3 +33,7 @@ In our case, as working on the individual named files, doesn't make any change t
 ### Ques-3 Name anyone Git or Github topic on which any issue is not made on this repo. (Your answer should be different from others.
 
 **Ans-3** Working on some issue that uses some concept of detached head if added can be really helpful
+
+Git objects explained.
+refs explained
+objects stores commits
