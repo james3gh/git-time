@@ -42,3 +42,5 @@ q git tree and blob
 tree explained
 
 blob explained
+
+Reordering commits makes a clearer and understandable git history. It makes the developer understand their code changes in a uniform and time-based manner.
