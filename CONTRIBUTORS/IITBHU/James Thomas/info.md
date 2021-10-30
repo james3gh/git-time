@@ -48,3 +48,6 @@ Ans 2 - Git submodules is like a git repository inside another git repo. Changes
 
 Ques 1 - Why would one ever need to ever reorder his commits?
 Ans 1 - Reordering commits makes a clearer and understandable git history. It makes the developer understand their code changes in a uniform and time-based manner. It also helps to push some particular commits by changing the order.
+
+Ques - 3 Does the merge conflicts come when you applied your stashes? Why/Why not?
+Yes, same line
