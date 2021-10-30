@@ -1,4 +1,3 @@
-# git-time
 
 # Squash and Regret 🙂
 
@@ -12,7 +11,7 @@ First make two commits in your info.md file each having respective answers to th
 
 Then squash both the commits into one. Title of squash commit can be anything.
 
-### NOTE: After cloning (if you want), one can use only 3 git commands uptil squashing the commits.
+### NOTE: After cloning, one can use only 3 git commands uptil squashing the commits. (Even git status will get count)
 
 Now make a `new_Branch`. Delete the squash commit from that branch. 
 Now recover back the changes made in the commit 1 and 2 **individually** by cherry picking. i.e. first cherry-pick the 1st commit `<GitHub-username>-one`, then cherry-pick the 2nd commit `<GitHub-username>-two` into the `new_Branch`. Solve merge-conflicts if any.
@@ -21,4 +20,3 @@ Now make a PR from this `new_Branch`.
 
 #### NOTE: The total number of commits on the PR should be 2 only and only one PR is allowed
 
-#### Write the commands in the PR message that you used to complete the task
