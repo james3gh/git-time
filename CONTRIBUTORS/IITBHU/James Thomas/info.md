@@ -51,3 +51,6 @@ Ans 1 - Reordering commits makes a clearer and understandable git history. It ma
 
 Ques - 3 Does the merge conflicts come when you applied your stashes? Why/Why not?
 Yes, same line
+
+Ques - 1 Why do we do fetch before the merge or pull?
+Ans - 1 fetch brings changes
