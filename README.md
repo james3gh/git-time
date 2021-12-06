@@ -1,22 +1,51 @@
 
-# Squash and Regret 🙂
+![Drum Kit](https://user-images.githubusercontent.com/87705437/144789106-e2324ba7-e053-46ff-8c19-fd0998a8758e.png)
 
-## Issue Description:
+# <img src="https://raw.githubusercontent.com/Jigyasa-G/Drum-Kit-Website/main/favicon.ico" width="36">  Drum Kit
+This project is based on the different sounds of Drum Kit instruments.
+Click the buttons indicating each sound and enjoy the music !!😊
 
-First make two commits in your info.md file each having respective answers to the questions. Commit title of each commit should be `<GitHub-username>-one` and `<GitHub-username>-two`. No commit description is required.
 
-**Q1** - Explain objects and refs folder inside ./git. Where git commits are stored in ./git folder?
+## Tech Stack
 
-**Q2** - Differentiate between tree and blob in git? What they represent?
+ ![](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-Then squash both the commits into one. Title of squash commit can be anything.
 
-### NOTE: After cloning, one can use only 3 git commands uptil squashing the commits. (Even git status will get count)
+## Author
 
-Now make a `new_Branch`. Delete the squash commit from that branch. 
-Now recover back the changes made in the commit 1 and 2 **individually** by cherry picking. i.e. first cherry-pick the 1st commit `<GitHub-username>-one`, then cherry-pick the 2nd commit `<GitHub-username>-two` into the `new_Branch`. Solve merge-conflicts if any.
+- [@Jigyasa-G](https://www.github.com/Jigyasa-G)
 
-Now make a PR from this `new_Branch`.
+## Run Locally
 
-#### NOTE: The total number of commits on the PR should be 2 only and only one PR is allowed
+```bash
+ Fork the project
+```
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+
+
+## ✨Contributing
+
+Contributions are always welcome!
+
+* You can work on issues already listed or any new ways to contribute let us know, we will add them as issues if found relevant
+
+* After making changes make a `PR`
+
+
+## 📃Feedback
+
+If you have any feedback, please reach out to us at 
+https://t.me/+DKcljEMxI882ODBl
+
+
+## 🙌Support
+
+For support, join our Telegram channel.
+https://t.me/+DKcljEMxI882ODBl
+
 
