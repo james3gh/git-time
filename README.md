@@ -37,6 +37,7 @@ https://t.me/+DKcljEMxI882ODBl
 For support, join our Telegram channel.
 https://t.me/+DKcljEMxI882ODBl
 
-<img src="https://1000logos.net/github-logo/" alt="Github"></img> 
-
-[Stackoverflow Website](https://stack-overflow-again.netlify.app/)
+<div>
+<img valign="top" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="Github" height="25">
+<span><a valign="top" href="https://stack-overflow-again.netlify.app/" >Stackvoerflow Website</a></span>
+</div>
