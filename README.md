@@ -1,5 +1,4 @@
 
-![Drum Kit](https://user-images.githubusercontent.com/87705437/144789106-e2324ba7-e053-46ff-8c19-fd0998a8758e.png)
 
 # <img src="https://raw.githubusercontent.com/Jigyasa-G/Drum-Kit-Website/main/favicon.ico" width="36">  Drum Kit
 This project is based on the different sounds produced when instruments of Drum Kit are hit.
@@ -16,17 +15,6 @@ Its time for a drumroll : Enjoy the experience 😊
 ## Author
 
 - [@Jigyasa-G](https://www.github.com/Jigyasa-G)
-
-## Run Locally
-
-```bash
- Fork the project
-```
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
 
 
 ## ✨Contributing
@@ -49,4 +37,6 @@ https://t.me/+DKcljEMxI882ODBl
 For support, join our Telegram channel.
 https://t.me/+DKcljEMxI882ODBl
 
+<img src="https://1000logos.net/github-logo/" alt="Github"></img> 
 
+[Stackoverflow Website](https://stack-overflow-again.netlify.app/)
